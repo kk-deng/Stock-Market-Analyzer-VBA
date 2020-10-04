@@ -1,4 +1,4 @@
-# Backgound
+# Background
 We have a workbook with three years of stock data for hundreds of tickers for the whole year. A VBA script was built to analyze the data, 
 getting open price, close price, total volume for each ticker.
 
@@ -38,8 +38,14 @@ List them on the summary table side to view (Yearly Change)	(Percent Change) (To
 
 # Results
 
-This script was optimized for the given excel files. A sorted data assumption was made to get the best efficieny. 
+This script was optimized for the given excel files. A sorted data assumption was made to get the best efficiency. 
 
 Overall time used to analyze the test results of the multi-year datasets (2014, 2015 and 2016) is between <b>37s to 45s</b> depending on the specs of the computer.
 
 Please check enclosed screenshots of detailed results in the folder.
+
+# Appreciation
+
+Thank you so much for the help from Piro and Laurel.
+
+By Kelvin Deng
