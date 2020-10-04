@@ -6,16 +6,16 @@ A summary table of stock data was generated for each year, along with the greate
 
 # Script Functions
 This script contains four subs in the code:
-1. Main run: the main run to call functions from the subs below. A user can choose to reset cells prior to processing the data.
+1. <b>Main run</b>: the main run to call functions from the subs below. A user can choose to reset cells prior to processing the data.
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/MG3ZqJ2/8b217f30d7877632551e81185c046f7.png" alt="8b217f30d7877632551e81185c046f7" border="0"></a><br />
 
-2. StockYearlyChangeFast() sub performs the main analysis on the data. It loops the whole table to get every ticker name, yearly price change percentage and total volume.
+2. <b>StockYearlyChangeFast()</b> sub performs the main analysis on the data. It loops the whole table to get every ticker name, yearly price change percentage and total volume.
 List them on the summary table side to view (Yearly Change)	(Percent Change) (Total Stock Volume).
 
-3. GreatestYearlyChange() sub reads summary data generated from the no.2 function. It compares all price change to get the highest, lowest price change and highest volume tickers.
+3. <b>GreatestYearlyChange()</b> sub reads summary data generated from the no.2 function. It compares all price change to get the highest, lowest price change and highest volume tickers.
 
-4. ResetCells() sub is an optional function for users to reset summary data on the right side of excel worksheets for a new run.
+4. <b>ResetCells()</b> sub is an optional function for users to reset summary data on the right side of excel worksheets for a new run.
 
 # Features:
 
