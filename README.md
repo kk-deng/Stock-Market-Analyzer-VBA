@@ -7,6 +7,7 @@ A summary table of stock data was generated for each year, along with the greate
 # Script Functions
 This script contains four subs in the code:
 1. Main run: the main run to call functions from the subs below. A user can choose to reset cells prior to processing the data.
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/MG3ZqJ2/8b217f30d7877632551e81185c046f7.png" alt="8b217f30d7877632551e81185c046f7" border="0"></a><br />
 
 2. StockYearlyChangeFast() sub performs the main analysis on the data. It loops the whole table to get every ticker name, yearly price change percentage and total volume.
